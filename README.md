@@ -1,3 +1,4 @@
+A high-performance, local security middleware and monitoring dashboard built with FastAPI and PyTorch. This system inspects user prompts before they reach downstream Large Language Models (LLMs) to intercept jailbreaks, prompt injections, and adversarial token attacks in real-time.
 Markdown
 #  AI Security Firewall: Multi-Layer Jailbreak Guard
 
